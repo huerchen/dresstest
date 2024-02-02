@@ -20,7 +20,7 @@
         </plugins>
     </build>
     <properties>
-        <version.spring>4.3.10.RELEASE</version.spring>
+        <version.spring>5.2.22.RELEASE</version.spring>
         <version.cucumber>1.2.5</version.cucumber>
         <version.slf4j>1.7.25</version.slf4j>
         <version.selenide>4.8</version.selenide>
